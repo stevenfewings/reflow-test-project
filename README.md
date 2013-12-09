@@ -1,2 +1,2 @@
-reflow-test-project
+Reflow test project
 ===================
